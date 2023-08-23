@@ -1,1 +1,1 @@
-### Explainable Multi-ethnic and Independent representation learning for Type 2 Diabetes Risk Factor Discovery by integrating omics and non-omics (OnO) data from the UKBiobank
+### Interpretable Multi-ethnic and Independent representation learning for Type 2 Diabetes Risk Factor Discovery by integrating omics and non-omics (OnO) data from the UKBiobank
