@@ -1,1 +1,5 @@
 ### Interpretable Multi-ethnic and Independent representation learning for Type 2 Diabetes Risk Factor Discovery by integrating genetic and non-genetic data from the UKBiobank
+
+
+
+Health Disparities research is gaining attention in recent times due to its impact on the healthcare system and the government. Billions of dollars is spent yearly by the U.S Government due to lack of health equity. Precision medicine is the goal of genomic research in the 21st Century where genetic alphabets can be translated to the bedside for each patient. While precision medicine in itself is expensive, health equity is the Shunt-pathway to individualized medicine. Knowing health disparities between groups will enable population groups to know the risk and protective factors associated with that particular group, this in turn will lead to personalized medicine where each individual will strive to improve the quality of their lives. Hence, health equity is cheaper and will save billions of U.S Dollars while improving the quality of life for all. Interpretable AI in the context of health disparities is an indispensable tool to achieve health equity.
